@@ -37,3 +37,16 @@ body {
   background-image: url("../images/red_triangle.png");
   background-size: 1280px 1280px;
 }
+.longform {
+  width: 90%;
+  height: 300px;
+}
+.submit {
+  width: 75px;
+  background-color: black;
+  color: white;
+  margin: 15px;
+}
+.submit:hover {
+  background-color: blue;
+}
